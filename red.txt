@@ -1,0 +1,4 @@
+created red.txt
+Apple
+Carrot
+Tomato
